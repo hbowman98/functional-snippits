@@ -1,0 +1,12 @@
+.tab-list {
+  list-style: none;
+  margin:0;
+  padding:0;
+}
+.tab-list li {
+  display: inline-block;
+}
+.tab-list li a.active {
+  font-weight: bold;
+}
+.tab-content {display: none;}
